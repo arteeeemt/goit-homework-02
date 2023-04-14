@@ -1,0 +1,60 @@
+:root{
+    --main-color:#4D5AE5;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
+
+}
+
+a{
+    color: inherit;
+}
+
+.contacts-item{
+    color: #434455;
+
+}
+
+.portfolio-btn{
+    background-color: #E7E9FC;
+    color:var(--main-color);
+    cursor: pointer;
+}
+
+.portfolio-btn:hover{
+    background-color:var(--main-color);
+    color:#fff;
+    
+}
+
+
+.menu-item:hover,:focus{
+    background-color:var(--main-color);
+
+
+}
+
+.contacts-item:hover,:focus{
+    background-color:var(--main-color);
+
+}
+
+.portfolio-item__title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 120%;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.portfolio-item__description{
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
