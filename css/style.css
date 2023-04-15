@@ -5,6 +5,7 @@
 body{
     font-family: 'Roboto', sans-serif;
     color: #2E2F42;
+    background-color:  #FFFFFF;
 
 }
 
@@ -17,6 +18,9 @@ a{
 
 }
 
+.list{
+    list-style: none;
+}
 .portfolio-btn{
     background-color: #E7E9FC;
     color:var(--main-color);
