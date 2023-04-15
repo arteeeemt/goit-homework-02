@@ -1,5 +1,7 @@
 body {
 font-family: "Roboto", sans-serif;
+color: #434455;
+background-color: #FFFFFF;
 }
 
 :root{
@@ -46,6 +48,9 @@ text-decoration: none;
 color:#404bbf;
 }
 
+.address-list{
+font-style:normal;
+}
 .contacts {
 font-style: normal;
 
@@ -80,7 +85,7 @@ letter-spacing: 0.02em;
 color:#FFFFFF;    
 }
 
-button.hero-btn {
+.hero-btn {
 background-color: #4D5AE5 ;
 font-family: 'Roboto', sans-serif;
 font-weight: 500;
@@ -92,7 +97,7 @@ color:#FFFFFF;
 
 }
 
-button .hero-btn:hover,:focus {
+.hero-btn:hover,:focus {
 border-color: #404BBF;
 cursor: pointer;
 }
