@@ -44,7 +44,8 @@ color:var(--span-color);
 text-decoration: none;
 
 }
-.list-link:hover,:focus {
+.list-link:hover,
+.list-link:focus {
 color:#404bbf;
 }
 
@@ -98,7 +99,8 @@ color:#FFFFFF;
 
 }
 
-.hero-btn:hover,:focus {
+.hero-btn:hover,
+.hero-btn,:focus {
 border-color: #404BBF;
 cursor: pointer;
 }
