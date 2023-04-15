@@ -101,7 +101,7 @@ color:#FFFFFF;
 }
 
 .hero-btn:hover ,
-.hero-btn,:focus {
+.hero-btn:focus {
 border-color: #404BBF;
 cursor: pointer;
 }
