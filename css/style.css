@@ -32,6 +32,11 @@ color:var(--span-color);
 list-style: none;
 
 }
+
+.address-list:hover
+.address-list:hover{
+color: #404bbf;
+}
 .link {
 text-decoration: none;
 }
@@ -72,7 +77,7 @@ color:var(--list-color)
 
 .list-menu:hover ,
 .list-menu:focus {
-background-color:#404bbf;    
+color:#404bbf;    
 }
 
 .hero{
