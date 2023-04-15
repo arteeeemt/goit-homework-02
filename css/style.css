@@ -1,6 +1,7 @@
 body{
-font-family: 'Roboto', sans-serif;
-color:#434455;
+font-family: "Roboto", sans-serif;
+color:var(--list-color);
+background-color: var(--bg-color);
 }
 
 :root{
