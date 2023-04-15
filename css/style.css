@@ -1,5 +1,5 @@
 body {
-font-family: "Roboto", sans-serif ;
+font-family: "Roboto", sans-serif;
 }
 
 :root{
@@ -68,11 +68,11 @@ color:#404bbf;
 }
 
 .hero{
-background-color: var(--span-color);
+background-color:#2e2f42;
 
 }
 
-.hero-title {
+h1.hero-title {
 font-size: 56px;
 line-height: 1.07;
 text-align: center;
@@ -80,7 +80,7 @@ letter-spacing: 0.02em;
 color:#FFFFFF;    
 }
 
-button .hero-btn {
+button.hero-btn {
 background-color: #4D5AE5 ;
 font-family: 'Roboto', sans-serif;
 font-weight: 500;
@@ -92,7 +92,7 @@ color:#FFFFFF;
 
 }
 
-.hero-btn:hover,:focus {
+button .hero-btn:hover,:focus {
 border-color: #404BBF;
 cursor: pointer;
 }
