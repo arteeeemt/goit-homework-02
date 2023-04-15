@@ -34,22 +34,22 @@ color: #FFFFFF;
 }
 
 .hero-btn:hover,:focus{
-    background-color: #404BBF;
-    cursor: pointer;
+background-color: #404BBF;
+cursor: pointer;
 }
 .link{
-    font-family: "Raleway", sans-serif,;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color:var(--main-color);
-    text-decoration: none;
+font-family: "Raleway", sans-serif,;
+font-weight: 800;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color:var(--main-color);
+text-decoration: none;
 }
 
 .logo-text{
-    color:var(--span)
+color:var(--span)
 }
 
 
@@ -100,9 +100,9 @@ a{
 }
 
 .portfolio-item__description{
-    font-family: 'Roboto';
-    font-size: 16px;
-    line-height: 150%;
-    letter-spacing: 0.02em;
-    color: #434455;
+font-family: 'Roboto';
+font-size: 16px;
+line-height: 150%;
+letter-spacing: 0.02em;
+color: #434455;
 }
