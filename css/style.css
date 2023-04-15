@@ -227,7 +227,7 @@ background-color: var(--btn-hover);
 }
 
 .portfolio-item__title{
-font-weight: 500px;
+font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
