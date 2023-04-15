@@ -1,4 +1,4 @@
-body{
+body {
 font-family: "Roboto", sans-serif ;
 }
 
@@ -11,7 +11,7 @@ font-family: "Roboto", sans-serif ;
 --btn-hover:#404bbf;
 }
 
-.logo{
+.logo {
 font-family: 'Raleway', sans-serif;
 font-weight: 800;
 font-style: 18px;
@@ -22,15 +22,15 @@ color:var(--logo-color);
 text-decoration: none;
 }
 
-.logo-text{
+.logo-text {
 color:var(--span-color);
 
 }
-.list{
+.list {
 list-style: none;
 
 }
-.link{
+.link {
 text-decoration: none;
 }
 .list-link {
@@ -42,20 +42,20 @@ color:var(--span-color);
 text-decoration: none;
 
 }
-.list-link:hover,:focus{
+.list-link:hover,:focus {
 color:#404bbf;
 }
 
-.contacts{
+.contacts {
 font-style: normal;
 
 }
 
-.list{
+.list {
 list-style:none;
 
 }
-.list-menu{
+.list-menu {
 font-weight: 400;   
 font-style: 16px;
 line-height: 1.5;
@@ -63,7 +63,7 @@ letter-spacing: 0.02em;
 color:var(--list-color)    
 }
 
-.list-menu:hover,:focus{
+.list-menu:hover,:focus {
 color:#404bbf;    
 }
 
@@ -72,7 +72,7 @@ background-color: var(--span-color);
 
 }
 
-.hero-title{
+.hero-title {
 font-size: 56px;
 line-height: 1.07;
 text-align: center;
@@ -80,7 +80,7 @@ letter-spacing: 0.02em;
 color:#FFFFFF;    
 }
 
-button .hero-btn{
+button .hero-btn {
 background-color: #4D5AE5 ;
 font-family: 'Roboto', sans-serif;
 font-weight: 500;
@@ -92,7 +92,7 @@ color:#FFFFFF;
 
 }
 
-.hero-btn:hover,:focus{
+.hero-btn:hover,:focus {
 border-color: #404BBF;
 cursor: pointer;
 }
@@ -147,7 +147,7 @@ background-color: #FFFFFF;
 
 }
 
-.list-title-second{
+.text {
 font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
@@ -156,14 +156,14 @@ color:var(--span-color)
 
 }
 
-.list-desc-second{
+.list-desc-second {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color:var(--list-color)    
 }
 
-.footer{
+.footer {
 background-color:var(--span-color);
 
 }
