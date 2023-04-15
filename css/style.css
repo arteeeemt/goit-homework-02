@@ -1,15 +1,16 @@
-:root{
-    --text-color:#434455;
-    --main-color:#4D5AE5;
-    --bg-color:#FFFFFF;
-}
-
 body{
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color:  var(--bg-color);
 
 }
+
+:root{
+    --text-color:#434455;
+    --main-color:#4D5AE5;
+    --bg-color:#FFFFFF;
+}
+
 
 a{
     color: inherit;
