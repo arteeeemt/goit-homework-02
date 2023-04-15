@@ -40,6 +40,7 @@ body{
 
 .hero-btn:hover,:focus{
     background-color: #404BBF;
+    cursor: pointer;
 }
 .link{
     font-family: "Raleway", sans-serif,;
