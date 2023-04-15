@@ -2,7 +2,6 @@ body{
     font-family: 'Roboto', sans-serif;
     color: var(--text-color);
     background-color:  var(--bg-color);
-
 }
 
 :root{
@@ -10,7 +9,6 @@ body{
     --main-color:#4D5AE5;
     --bg-color:#FFFFFF;
     --span: #2e2f42;
-    
 }
 
 .hero{
@@ -23,7 +21,6 @@ body{
     text-align: center;
     letter-spacing: 0,02em;
     color: #FFFFFF;
-
 }
 
 .hero-btn{
@@ -34,8 +31,6 @@ body{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-
-
 }
 
 .hero-btn:hover,:focus{
@@ -51,12 +46,10 @@ body{
     text-transform: uppercase;
     color:var(--main-color);
     text-decoration: none;
-
 }
 
 .logo-text{
     color:var(--span)
-
 }
 
 
