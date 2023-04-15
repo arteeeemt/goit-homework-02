@@ -1,5 +1,5 @@
 body{
-font-family: "Roboto", sans-serif;
+font-family: "Roboto",sans-serif;
 color:var(--list-color);
 background-color: var(--bg-color);
 }
@@ -31,6 +31,9 @@ color:var(--span-color);
 .list{
 list-style: none;
 
+}
+.link{
+    text-decoration: none;
 }
 .list-link {
 font-weight: 500;
