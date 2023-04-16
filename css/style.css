@@ -1,7 +1,7 @@
 body {
 font-family: "Roboto", sans-serif;
 color: #434455;
-background-color: #FFFFFF;
+background-color: var(--bg-color);
 }
 
 :root{
@@ -35,8 +35,8 @@ list-style: none;
 
 .address-list:hover
 .address-list:hover{
-color: #404bbf;
-}
+color:var(--btn-hover); 
+} 
 .link {
 text-decoration: none;
 }
@@ -49,10 +49,10 @@ color:var(--span-color);
 text-decoration: none;
 
 }
-.list-link:hover ,
+/* .list-link:hover ,
 .list-link:focus {
-color:#404bbf;
-}
+color:var(--btn-hover);
+} */
 
 .address-list{
 font-style:normal;
@@ -75,13 +75,10 @@ letter-spacing: 0.02em;
 color:var(--list-color)    
 }
 
-.list-menu:hover ,
-.list-menu:focus {
-color:#404bbf;    
-}
+
 
 .hero{
-background-color:#2e2f42;
+background-color:var(--span-color);
 
 }
 
@@ -90,24 +87,24 @@ font-size: 56px;
 line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
-color:#FFFFFF;    
+color:var(--bg-color);    
 }
 
 .hero-btn {
-background-color: #4D5AE5 ;
+background-color:var(--logo-color) ;
 font-family: 'Roboto', sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
-color:#FFFFFF;
+color:var(--bg-color);
 
 
 }
 
 .hero-btn:hover ,
 .hero-btn:focus {
-background-color: #404BBF;
+/* background-color:var(--btn-hover); */
 cursor: pointer;
 }
 
@@ -143,7 +140,7 @@ color:var(--span-color)
 }
 
 .team-section{
-background-color: #f4f4fd;
+background-color: var(--btn-bg);
 
 }
 
@@ -157,7 +154,7 @@ color:var(--span-color)
 }
 
 .list-item{
-background-color: #FFFFFF;
+background-color:var(--bg-color);
 
 }
 
@@ -175,7 +172,7 @@ font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
-color:#2e2f42;
+color:var(--span-color);
 }
 
 .list-desc-second {
@@ -190,20 +187,8 @@ background-color:var(--span-color);
 
 }
 
-.logo{
-font-family: 'Raleway', sans-serif;
-font-weight: 800;
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color:var(--logo-color);
-text-decoration: none;
-
-}
-
 .footer-span{
-color: #f4f4fd;   
+color: var(--btn-bg);   
 }
 
 .portfolio-btn{
@@ -220,7 +205,7 @@ cursor: pointer;
 }
 
 .portfolio-btn:hover,:focus{
-color: #FFFFFF;
+color: var(--bg-color);
 background-color: var(--btn-hover);
 
     
