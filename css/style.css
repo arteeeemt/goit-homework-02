@@ -220,7 +220,7 @@ cursor: pointer;
 .portfolio-btn:hover,
 .portfolio-btn:focus{
 color:var(--bg-color); 
-background-color: var(--btn-bg); 
+background-color: var(--btn-hover); 
 }
 
 .portfolio-item__title{
