@@ -219,8 +219,8 @@ cursor: pointer;
 
 .portfolio-btn:hover,
 .portfolio-btn:focus{
-color: var(--btn-bg); 
-background-color: var(--btn-hover); 
+color:#FFFFFF; 
+background-color: var(--bg-color); 
 }
 
 .portfolio-item__title{
